@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "481295920928",
+    "project_id": "cuts-a2ddf",
+    "storage_bucket": "cuts-a2ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481295920928:android:27cef365a5521c38e27145",
+        "android_client_info": {
+          "package_name": "com.example.chat_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481295920928-mf9g0l51e69dj7re60rlqknt6t89ajeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chat_test",
+            "certificate_hash": "6c68b2992429fc78743610190b23e22dffc91b01"
+          }
+        },
+        {
+          "client_id": "481295920928-o88a12i0imke4kq00nkiscgf9d1r51ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqTYwU9D096PrVJb-z28Rj3PWGjcuIiGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481295920928-b176vdssjng2j6qvtq8g47u09ts36g5s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481295920928-0ph9g9tprurm15vpn5qgirm1u4a741d5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cutsAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481295920928:android:881460d315e6136be27145",
+        "android_client_info": {
+          "package_name": "com.example.cuts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481295920928-o88a12i0imke4kq00nkiscgf9d1r51ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqTYwU9D096PrVJb-z28Rj3PWGjcuIiGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481295920928-b176vdssjng2j6qvtq8g47u09ts36g5s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481295920928-0ph9g9tprurm15vpn5qgirm1u4a741d5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cutsAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481295920928:android:7466f7abce5c5c09e27145",
+        "android_client_info": {
+          "package_name": "com.example.cuts_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481295920928-3aqs1015fupk9dr6kikfi55kode8023j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cuts_admin",
+            "certificate_hash": "6c68b2992429fc78743610190b23e22dffc91b01"
+          }
+        },
+        {
+          "client_id": "481295920928-o88a12i0imke4kq00nkiscgf9d1r51ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqTYwU9D096PrVJb-z28Rj3PWGjcuIiGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481295920928-b176vdssjng2j6qvtq8g47u09ts36g5s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "481295920928-0ph9g9tprurm15vpn5qgirm1u4a741d5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cutsAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
